@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jon O&#39;Connell</title>
-    <link>https://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Jon O&#39;Connell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 17:51:24 -0400</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://example.org/posts/about-me/</link>
+      <link>/posts/about-me/</link>
       <pubDate>Sat, 17 May 2025 17:51:24 -0400</pubDate>
-      <guid>https://example.org/posts/about-me/</guid>
+      <guid>/posts/about-me/</guid>
       <description>&lt;h3 id=&#34;brief-overview&#34;&gt;Brief Overview&lt;/h3&gt;&#xA;&lt;p&gt;My name is Jonathon O&amp;rsquo;Connell and I am a graduate of the University of Delaware with a Computer Science B.S. I hope to work as a Software Engineer for my career, preferably in the defense industry. I concentrated in Systems and Networks, taking classes mostly in C and Python. I have a wide range of skills, and continue to build on them in my free time.&lt;/p&gt;&#xA;&lt;h3 id=&#34;coursework&#34;&gt;Coursework&lt;/h3&gt;&#xA;&lt;p&gt;Machine Organization and Assembly Language, Data Structures, Operating Systems, Intro. to Algorithms,&#xA;Automata Theory, Intro. to Software Engineering, Web Applications Security, Database Systems, Parallel Computing,&#xA;Computer Architecture, Computer Networking, Compiler Design, Advanced Web Technologies&lt;/p&gt;</description>
     </item>
   </channel>

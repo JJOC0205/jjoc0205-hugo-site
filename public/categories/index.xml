@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jon O&#39;Connell</title>
-    <link>https://example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Jon O&#39;Connell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 17:51:24 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Important</title>
-      <link>https://example.org/categories/important/</link>
+      <link>/categories/important/</link>
       <pubDate>Sat, 17 May 2025 17:51:24 -0400</pubDate>
-      <guid>https://example.org/categories/important/</guid>
+      <guid>/categories/important/</guid>
       <description></description>
     </item>
   </channel>
