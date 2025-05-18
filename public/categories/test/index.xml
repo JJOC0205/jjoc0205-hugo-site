@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Jon O&#39;Connell</title>
+    <link>http://localhost:1313/categories/test/</link>
+    <description>Recent content in Test on Jon O&#39;Connell</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 20:47:30 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/posts/testing/</link>
+      <pubDate>Sun, 11 May 2025 20:47:30 -0400</pubDate>
+      <guid>http://localhost:1313/posts/testing/</guid>
+      <description>&lt;h2 id=&#34;test&#34;&gt;TEST&lt;/h2&gt;&#xA;&lt;p&gt;HELLO&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 11 May 2025 12:05:34 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;INTRO&lt;/h2&gt;&#xA;&lt;p&gt;This is my first attempt at a post on this site. This will mostly be used for testing and to check fonts, &lt;em&gt;emphasis&lt;/em&gt;, and other stuff. Eventually I will better organize this site to be more conceise.&#xA;Looking to have 3-5 main tabs, one for CS stuff, one for the Mets (Maybe an extra for the Jets), and one for anime/video game reviews (May be turned into 2 seperate tabs).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

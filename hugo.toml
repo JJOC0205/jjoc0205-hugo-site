@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Jon O'Connell"
+theme = 'hyde'
+
+[params]
+	description = "An aspiring software engineer, this site is meant to be my main place for all my personal projects, as well as some posts regarding my interets. The main content will be project desciptions, the Mets, anime, and video games. "
+
+[Menus]
+  main = [
+      {Name = "About Me", URL = "/posts/about-me"},
+      {Name = "Github", URL = "https://github.com/JJOC0205/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jonathonoconnell/"},
+      {Name = "Mets", URL = "/categories/Mets/"},
+      {Name = "Computer Science", URL = "/categories/projects"}
+  ]
